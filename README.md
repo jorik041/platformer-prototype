@@ -1,20 +1,26 @@
 # platformer-prototype
 a quick little rushed prototype game made in february for a friend
 
-# how to play
-[W or Up] to jump
-[A or Left] to move left
-[D or Right] to move right
+## how to play
+W or Up Arrow - jump
 
-[JK] to dash directionally....if unlocked
-[W] (again) to double jump....if unlocked
-[W] (hold) to glide...........if unlocked
-[W] (on wall) to wall jump....if unlocked
+A or Left Arrow - move left
 
-[F4] to change between Fullscreen and Windowed
-[Esc] to exit the game
+D or Right Arrow - move right
 
-# setup
+J and K - directional dash if unlocked
+
+jump again - double jump if unlocked
+
+hold jump - glide if unlocked
+
+jump on wall - wall jump if unlocked
+
+F4 - change between fullscreen and windowed
+
+ESC - exit
+
+## setup
 if game fails to run, please install .NET Framework 4.5 or Mono.
 
 (Windows)
@@ -23,7 +29,7 @@ if game fails to run, please install .NET Framework 4.5 or Mono.
 (Non Windows)
 Mono Framework (As a replacement to .NET) - http://www.mono-project.com/download/
 
-# credits
+## credits
 game/level design:
 that friend I made the engine for
 
